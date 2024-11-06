@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\PROJETO_SALAO\bin\Debug\net8.0\PROJETO_SALAO.exe
+C:\Users\fabio\source\repos\PROJETO_SALAO\bin\Debug\net8.0\PROJETO_SALAO.deps.json
+C:\Users\fabio\source\repos\PROJETO_SALAO\bin\Debug\net8.0\PROJETO_SALAO.runtimeconfig.json
+C:\Users\fabio\source\repos\PROJETO_SALAO\bin\Debug\net8.0\PROJETO_SALAO.dll
+C:\Users\fabio\source\repos\PROJETO_SALAO\bin\Debug\net8.0\PROJETO_SALAO.pdb
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.AssemblyInfo.cs
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.dll
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\refint\PROJETO_SALAO.dll
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.pdb
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\PROJETO_SALAO.genruntimeconfig.cache
+C:\Users\fabio\source\repos\PROJETO_SALAO\obj\Debug\net8.0\ref\PROJETO_SALAO.dll

@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\FaculdadeProjeto\bin\Debug\net8.0\FaculdadeProjeto.exe
+C:\Users\fabio\source\repos\FaculdadeProjeto\bin\Debug\net8.0\FaculdadeProjeto.deps.json
+C:\Users\fabio\source\repos\FaculdadeProjeto\bin\Debug\net8.0\FaculdadeProjeto.runtimeconfig.json
+C:\Users\fabio\source\repos\FaculdadeProjeto\bin\Debug\net8.0\FaculdadeProjeto.dll
+C:\Users\fabio\source\repos\FaculdadeProjeto\bin\Debug\net8.0\FaculdadeProjeto.pdb
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.dll
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\refint\FaculdadeProjeto.dll
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.pdb
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\FaculdadeProjeto.genruntimeconfig.cache
+C:\Users\fabio\source\repos\FaculdadeProjeto\obj\Debug\net8.0\ref\FaculdadeProjeto.dll

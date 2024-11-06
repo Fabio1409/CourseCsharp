@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\Nullabe\bin\Debug\net8.0\Nullabe.exe
+C:\Users\fabio\source\repos\Nullabe\bin\Debug\net8.0\Nullabe.deps.json
+C:\Users\fabio\source\repos\Nullabe\bin\Debug\net8.0\Nullabe.runtimeconfig.json
+C:\Users\fabio\source\repos\Nullabe\bin\Debug\net8.0\Nullabe.dll
+C:\Users\fabio\source\repos\Nullabe\bin\Debug\net8.0\Nullabe.pdb
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.dll
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\refint\Nullabe.dll
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.pdb
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\Nullabe.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Nullabe\obj\Debug\net8.0\ref\Nullabe.dll

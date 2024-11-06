@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Struct\bin\Debug\net8.0\ProjetoStruct.exe
+C:\Users\fabio\source\repos\Struct\bin\Debug\net8.0\ProjetoStruct.deps.json
+C:\Users\fabio\source\repos\Struct\bin\Debug\net8.0\ProjetoStruct.runtimeconfig.json
+C:\Users\fabio\source\repos\Struct\bin\Debug\net8.0\ProjetoStruct.dll
+C:\Users\fabio\source\repos\Struct\bin\Debug\net8.0\ProjetoStruct.pdb
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.dll
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\refint\ProjetoStruct.dll
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.pdb
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ProjetoStruct.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\ref\ProjetoStruct.dll

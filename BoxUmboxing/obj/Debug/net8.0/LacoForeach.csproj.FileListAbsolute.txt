@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\BoxUmboxing\bin\Debug\net8.0\LacoForeach.exe
+C:\Users\fabio\source\repos\BoxUmboxing\bin\Debug\net8.0\LacoForeach.deps.json
+C:\Users\fabio\source\repos\BoxUmboxing\bin\Debug\net8.0\LacoForeach.runtimeconfig.json
+C:\Users\fabio\source\repos\BoxUmboxing\bin\Debug\net8.0\LacoForeach.dll
+C:\Users\fabio\source\repos\BoxUmboxing\bin\Debug\net8.0\LacoForeach.pdb
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.AssemblyInfo.cs
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.dll
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\refint\LacoForeach.dll
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.pdb
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\LacoForeach.genruntimeconfig.cache
+C:\Users\fabio\source\repos\BoxUmboxing\obj\Debug\net8.0\ref\LacoForeach.dll

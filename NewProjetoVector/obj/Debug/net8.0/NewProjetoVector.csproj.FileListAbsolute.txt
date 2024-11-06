@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\NewProjetoVector\bin\Debug\net8.0\NewProjetoVector.exe
+C:\Users\fabio\source\repos\NewProjetoVector\bin\Debug\net8.0\NewProjetoVector.deps.json
+C:\Users\fabio\source\repos\NewProjetoVector\bin\Debug\net8.0\NewProjetoVector.runtimeconfig.json
+C:\Users\fabio\source\repos\NewProjetoVector\bin\Debug\net8.0\NewProjetoVector.dll
+C:\Users\fabio\source\repos\NewProjetoVector\bin\Debug\net8.0\NewProjetoVector.pdb
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.AssemblyInfo.cs
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.dll
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\refint\NewProjetoVector.dll
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.pdb
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\NewProjetoVector.genruntimeconfig.cache
+C:\Users\fabio\source\repos\NewProjetoVector\obj\Debug\net8.0\ref\NewProjetoVector.dll

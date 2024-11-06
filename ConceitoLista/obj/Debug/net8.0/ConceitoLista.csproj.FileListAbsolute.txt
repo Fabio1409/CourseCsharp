@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\ConceitoLista\bin\Debug\net8.0\ConceitoLista.exe
+C:\Users\fabio\source\repos\ConceitoLista\bin\Debug\net8.0\ConceitoLista.deps.json
+C:\Users\fabio\source\repos\ConceitoLista\bin\Debug\net8.0\ConceitoLista.runtimeconfig.json
+C:\Users\fabio\source\repos\ConceitoLista\bin\Debug\net8.0\ConceitoLista.dll
+C:\Users\fabio\source\repos\ConceitoLista\bin\Debug\net8.0\ConceitoLista.pdb
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.dll
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\refint\ConceitoLista.dll
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.pdb
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ConceitoLista.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ConceitoLista\obj\Debug\net8.0\ref\ConceitoLista.dll

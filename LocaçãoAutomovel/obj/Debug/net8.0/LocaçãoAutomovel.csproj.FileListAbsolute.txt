@@ -1,0 +1,4 @@
+C:\Users\fabio\source\repos\LocaçãoAutomovel\obj\Debug\net8.0\LocaçãoAutomovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\LocaçãoAutomovel\obj\Debug\net8.0\LocaçãoAutomovel.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\LocaçãoAutomovel\obj\Debug\net8.0\LocaçãoAutomovel.AssemblyInfo.cs
+C:\Users\fabio\source\repos\LocaçãoAutomovel\obj\Debug\net8.0\LocaçãoAutomovel.csproj.CoreCompileInputs.cache

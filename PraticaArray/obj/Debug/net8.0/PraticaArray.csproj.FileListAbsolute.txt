@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.AssemblyInfo.cs
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\PraticaArray\bin\Debug\net8.0\PraticaArray.exe
+C:\Users\fabio\source\repos\PraticaArray\bin\Debug\net8.0\PraticaArray.deps.json
+C:\Users\fabio\source\repos\PraticaArray\bin\Debug\net8.0\PraticaArray.runtimeconfig.json
+C:\Users\fabio\source\repos\PraticaArray\bin\Debug\net8.0\PraticaArray.dll
+C:\Users\fabio\source\repos\PraticaArray\bin\Debug\net8.0\PraticaArray.pdb
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.dll
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\refint\PraticaArray.dll
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.pdb
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\PraticaArray.genruntimeconfig.cache
+C:\Users\fabio\source\repos\PraticaArray\obj\Debug\net8.0\ref\PraticaArray.dll

@@ -1,0 +1,4 @@
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\Projeto_Structe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\Projeto_Structe.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\Projeto_Structe.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Struct\obj\Debug\net8.0\Projeto_Structe.csproj.CoreCompileInputs.cache
