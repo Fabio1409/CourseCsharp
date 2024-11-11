@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\PropiedadesDateTime\bin\Debug\net8.0\PropiedadesDateTime.exe
+C:\Users\fabio\source\repos\PropiedadesDateTime\bin\Debug\net8.0\PropiedadesDateTime.deps.json
+C:\Users\fabio\source\repos\PropiedadesDateTime\bin\Debug\net8.0\PropiedadesDateTime.runtimeconfig.json
+C:\Users\fabio\source\repos\PropiedadesDateTime\bin\Debug\net8.0\PropiedadesDateTime.dll
+C:\Users\fabio\source\repos\PropiedadesDateTime\bin\Debug\net8.0\PropiedadesDateTime.pdb
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.AssemblyInfo.cs
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.sourcelink.json
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.dll
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\refint\PropiedadesDateTime.dll
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.pdb
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\PropiedadesDateTime.genruntimeconfig.cache
+C:\Users\fabio\source\repos\PropiedadesDateTime\obj\Debug\net8.0\ref\PropiedadesDateTime.dll

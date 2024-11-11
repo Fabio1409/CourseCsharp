@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.exe
+C:\Users\fabio\source\repos\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.deps.json
+C:\Users\fabio\source\repos\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.runtimeconfig.json
+C:\Users\fabio\source\repos\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.dll
+C:\Users\fabio\source\repos\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.pdb
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.AssemblyInfo.cs
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.sourcelink.json
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.dll
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\refint\OperacoesDateTime.dll
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.pdb
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.genruntimeconfig.cache
+C:\Users\fabio\source\repos\OperacoesDateTime\obj\Debug\net8.0\ref\OperacoesDateTime.dll
