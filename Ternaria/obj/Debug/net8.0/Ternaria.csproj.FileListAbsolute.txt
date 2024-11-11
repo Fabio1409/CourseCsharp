@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.sourcelink.json
+C:\Users\fabio\source\repos\Ternaria\bin\Debug\net8.0\Ternaria.exe
+C:\Users\fabio\source\repos\Ternaria\bin\Debug\net8.0\Ternaria.deps.json
+C:\Users\fabio\source\repos\Ternaria\bin\Debug\net8.0\Ternaria.runtimeconfig.json
+C:\Users\fabio\source\repos\Ternaria\bin\Debug\net8.0\Ternaria.dll
+C:\Users\fabio\source\repos\Ternaria\bin\Debug\net8.0\Ternaria.pdb
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.dll
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\refint\Ternaria.dll
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.pdb
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\Ternaria.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Ternaria\obj\Debug\net8.0\ref\Ternaria.dll

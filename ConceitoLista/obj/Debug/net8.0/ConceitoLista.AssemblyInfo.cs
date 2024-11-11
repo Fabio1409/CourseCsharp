@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConceitoLista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c02fd335cd979a02e0f214da7e9f5bbbdf05c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConceitoLista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConceitoLista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
