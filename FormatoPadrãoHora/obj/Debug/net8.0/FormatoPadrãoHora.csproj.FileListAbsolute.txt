@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\FormatoPadrãoHora\bin\Debug\net8.0\FormatoPadrãoHora.exe
+C:\Users\fabio\source\repos\FormatoPadrãoHora\bin\Debug\net8.0\FormatoPadrãoHora.deps.json
+C:\Users\fabio\source\repos\FormatoPadrãoHora\bin\Debug\net8.0\FormatoPadrãoHora.runtimeconfig.json
+C:\Users\fabio\source\repos\FormatoPadrãoHora\bin\Debug\net8.0\FormatoPadrãoHora.dll
+C:\Users\fabio\source\repos\FormatoPadrãoHora\bin\Debug\net8.0\FormatoPadrãoHora.pdb
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.sourcelink.json
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.dll
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\refint\FormatoPadrãoHora.dll
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.pdb
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\FormatoPadrãoHora.genruntimeconfig.cache
+C:\Users\fabio\source\repos\FormatoPadrãoHora\obj\Debug\net8.0\ref\FormatoPadrãoHora.dll

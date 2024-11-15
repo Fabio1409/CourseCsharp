@@ -14,7 +14,7 @@ namespace OperacoesDateTime
             DateTime d3 = d.AddMinutes(3);
 
 
-           // DateTime y = d.AddDays(double);
+           
             Console.WriteLine(d);
             Console.WriteLine(d2);
             Console.WriteLine(d3);

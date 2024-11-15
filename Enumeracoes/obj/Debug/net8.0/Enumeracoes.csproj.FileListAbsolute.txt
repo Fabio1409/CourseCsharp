@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.sourcelink.json
+C:\Users\fabio\source\repos\Enumeracoes\bin\Debug\net8.0\Enumeracoes.exe
+C:\Users\fabio\source\repos\Enumeracoes\bin\Debug\net8.0\Enumeracoes.deps.json
+C:\Users\fabio\source\repos\Enumeracoes\bin\Debug\net8.0\Enumeracoes.runtimeconfig.json
+C:\Users\fabio\source\repos\Enumeracoes\bin\Debug\net8.0\Enumeracoes.dll
+C:\Users\fabio\source\repos\Enumeracoes\bin\Debug\net8.0\Enumeracoes.pdb
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.dll
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\refint\Enumeracoes.dll
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.pdb
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Enumeracoes\obj\Debug\net8.0\ref\Enumeracoes.dll
