@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.sourcelink.json
+C:\Users\fabio\source\repos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.exe
+C:\Users\fabio\source\repos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.deps.json
+C:\Users\fabio\source\repos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.dll
+C:\Users\fabio\source\repos\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.pdb
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.dll
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\refint\ExercicioComposicao.dll
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.pdb
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioComposicao\obj\Debug\net8.0\ref\ExercicioComposicao.dll
