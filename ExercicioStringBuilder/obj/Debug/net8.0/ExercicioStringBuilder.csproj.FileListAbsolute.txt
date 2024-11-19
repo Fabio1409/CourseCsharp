@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.exe
+C:\Users\fabio\source\repos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.deps.json
+C:\Users\fabio\source\repos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.dll
+C:\Users\fabio\source\repos\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.sourcelink.json
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.dll
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\refint\ExercicioStringBuilder.dll
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioStringBuilder\obj\Debug\net8.0\ref\ExercicioStringBuilder.dll

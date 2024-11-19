@@ -42,8 +42,7 @@
               "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:23:29.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:23:29.792Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Entities\\Worker.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:21:02.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:21:02.299Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T02:01:38.555Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Entities\\HourContract.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wBcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:16:24.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:16:24.439Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Entities\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:12:24.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:12:24.066Z"
             }
           ]
         }

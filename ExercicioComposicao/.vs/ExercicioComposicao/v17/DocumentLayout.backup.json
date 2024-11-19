@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|c:\\users\\fabio\\source\\repos\\exerciciocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|c:\\users\\fabio\\source\\repos\\exerciciocomposicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|solutionrelative:entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|c:\\users\\fabio\\source\\repos\\exerciciocomposicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|solutionrelative:entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|c:\\users\\fabio\\source\\repos\\exerciciocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF76CC9F-51EE-4E95-B1AD-A24BF79030F4}|ExercicioComposicao.csproj|c:\\users\\fabio\\source\\repos\\exerciciocomposicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,20 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Entities\\Enums\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\WorkerLevel.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Entities\\Enums\\WorkerLevel.cs*",
-              "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:23:29.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:23:29.792Z"
             },
             {
               "$type": "Document",
@@ -55,25 +54,24 @@
               "RelativeToolTip": "Entities\\Worker.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:21:02.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:21:02.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T02:01:38.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HourContract.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Entities\\HourContract.cs",
               "RelativeDocumentMoniker": "Entities\\HourContract.cs",
@@ -81,12 +79,11 @@
               "RelativeToolTip": "Entities\\HourContract.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wBcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:16:24.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:16:24.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioComposicao\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "Entities\\Department.cs",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Entities\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:12:24.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T02:12:24.066Z"
             }
           ]
         }
