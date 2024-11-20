@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\UpCastingDownCasting\bin\Debug\net8.0\UpCastingDownCasting.exe
+C:\Users\fabio\source\repos\UpCastingDownCasting\bin\Debug\net8.0\UpCastingDownCasting.deps.json
+C:\Users\fabio\source\repos\UpCastingDownCasting\bin\Debug\net8.0\UpCastingDownCasting.runtimeconfig.json
+C:\Users\fabio\source\repos\UpCastingDownCasting\bin\Debug\net8.0\UpCastingDownCasting.dll
+C:\Users\fabio\source\repos\UpCastingDownCasting\bin\Debug\net8.0\UpCastingDownCasting.pdb
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.AssemblyInfo.cs
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.sourcelink.json
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.dll
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\refint\UpCastingDownCasting.dll
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.pdb
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\UpCastingDownCasting.genruntimeconfig.cache
+C:\Users\fabio\source\repos\UpCastingDownCasting\obj\Debug\net8.0\ref\UpCastingDownCasting.dll
