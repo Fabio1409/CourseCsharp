@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace UpCastingDownCasting.Entities
 {
-    internal class Account
+    public class Account
     {
         public int Number { get; set; }
         public string  Holder { get; set; }
@@ -21,7 +17,7 @@ namespace UpCastingDownCasting.Entities
             Balance = balance;
         }
 
-        public void WithDraw(double amount)
+        public virtual void Withdraw(double amount)
         {
             Balance -= amount;
         }

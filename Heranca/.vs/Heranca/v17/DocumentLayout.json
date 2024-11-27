@@ -3,16 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\Heranca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|c:\\users\\fabio\\source\\repos\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|c:\\users\\fabio\\source\\repos\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|c:\\users\\fabio\\source\\repos\\heranca\\entities\\businessacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|solutionrelative:entities\\businessacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabio\\source\\repos\\Sobreposicao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|c:\\users\\fabio\\source\\repos\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9409D5-0C51-499D-8DBD-94A364A12524}|Heranca.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +21,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BusinessAcount.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\BusinessAcount.cs",
               "RelativeDocumentMoniker": "Entities\\BusinessAcount.cs",
               "ToolTip": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\BusinessAcount.cs",
               "RelativeToolTip": "Entities\\BusinessAcount.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:33:04.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "Entities\\Account.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\Account.cs",
-              "RelativeToolTip": "Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:26:35.074Z",
+              "WhenOpened": "2024-11-22T00:35:48.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Heranca\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Sobreposicao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Sobreposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Sobreposicao\\Program.cs",
+              "RelativeToolTip": "..\\Sobreposicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:52:44.811Z",
+              "WhenOpened": "2024-11-22T00:33:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:26:35.074Z",
               "EditorCaption": ""
             }
           ]

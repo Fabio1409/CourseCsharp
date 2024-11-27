@@ -2,7 +2,7 @@
 
 namespace Heranca.Entities
 {
-    internal class Account
+    public class Account
     {
         public int Number { get; private set; }//Numero conta
         public string Holder { get; private set; }// Titular conta

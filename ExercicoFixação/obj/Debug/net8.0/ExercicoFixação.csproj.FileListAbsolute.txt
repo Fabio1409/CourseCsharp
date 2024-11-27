@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicoFixação\bin\Debug\net8.0\ExercicoFixação.exe
+C:\Users\fabio\source\repos\ExercicoFixação\bin\Debug\net8.0\ExercicoFixação.deps.json
+C:\Users\fabio\source\repos\ExercicoFixação\bin\Debug\net8.0\ExercicoFixação.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicoFixação\bin\Debug\net8.0\ExercicoFixação.dll
+C:\Users\fabio\source\repos\ExercicoFixação\bin\Debug\net8.0\ExercicoFixação.pdb
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.sourcelink.json
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.dll
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\refint\ExercicoFixação.dll
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.pdb
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ExercicoFixação.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicoFixação\obj\Debug\net8.0\ref\ExercicoFixação.dll

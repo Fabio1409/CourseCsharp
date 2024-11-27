@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heranca.Entities
 {
-    internal class BusinessAcount : Account
+    public class BusinessAcount : Account
     {
         public double LoanLimit { get; set; }
 
@@ -15,7 +15,7 @@ namespace Heranca.Entities
         }
 
         public BusinessAcount(int number, string holder, double balance, double loanLimit) 
-            : base(number, holder, balance)// forma de chamar construtor sem  que tenha que fazer variavel = variavel
+            : base(number, holder, balance) // forma de chamar construtor sem  que tenha que fazer variavel = variavel
         {
             LoanLimit = loanLimit;
 
