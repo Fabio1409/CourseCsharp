@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ProjetoPintura\bin\Debug\net8.0\ProjetoPintura.exe
+C:\Users\fabio\source\repos\ProjetoPintura\bin\Debug\net8.0\ProjetoPintura.deps.json
+C:\Users\fabio\source\repos\ProjetoPintura\bin\Debug\net8.0\ProjetoPintura.runtimeconfig.json
+C:\Users\fabio\source\repos\ProjetoPintura\bin\Debug\net8.0\ProjetoPintura.dll
+C:\Users\fabio\source\repos\ProjetoPintura\bin\Debug\net8.0\ProjetoPintura.pdb
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.sourcelink.json
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.dll
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\refint\ProjetoPintura.dll
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.pdb
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ProjetoPintura.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ProjetoPintura\obj\Debug\net8.0\ref\ProjetoPintura.dll

@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.sourcelink.json
+C:\Users\fabio\source\repos\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.exe
+C:\Users\fabio\source\repos\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.deps.json
+C:\Users\fabio\source\repos\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.runtimeconfig.json
+C:\Users\fabio\source\repos\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.dll
+C:\Users\fabio\source\repos\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.pdb
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.dll
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\refint\TratamentoExcecoes.dll
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.pdb
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\Users\fabio\source\repos\TratamentoExcecoes\obj\Debug\net8.0\ref\TratamentoExcecoes.dll

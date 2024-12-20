@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.exe
+C:\Users\fabio\source\repos\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.deps.json
+C:\Users\fabio\source\repos\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.runtimeconfig.json
+C:\Users\fabio\source\repos\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.dll
+C:\Users\fabio\source\repos\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.pdb
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.AssemblyInfo.cs
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.sourcelink.json
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.dll
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\refint\TratamentoExcecao.dll
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.pdb
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.genruntimeconfig.cache
+C:\Users\fabio\source\repos\TratamentoExcecao\obj\Debug\net8.0\ref\TratamentoExcecao.dll

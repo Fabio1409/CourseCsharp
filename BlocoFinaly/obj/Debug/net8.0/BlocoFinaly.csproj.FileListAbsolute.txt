@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\BlocoFinaly\bin\Debug\net8.0\BlocoFinaly.exe
+C:\Users\fabio\source\repos\BlocoFinaly\bin\Debug\net8.0\BlocoFinaly.deps.json
+C:\Users\fabio\source\repos\BlocoFinaly\bin\Debug\net8.0\BlocoFinaly.runtimeconfig.json
+C:\Users\fabio\source\repos\BlocoFinaly\bin\Debug\net8.0\BlocoFinaly.dll
+C:\Users\fabio\source\repos\BlocoFinaly\bin\Debug\net8.0\BlocoFinaly.pdb
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.AssemblyInfo.cs
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.sourcelink.json
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.dll
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\refint\BlocoFinaly.dll
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.pdb
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\BlocoFinaly.genruntimeconfig.cache
+C:\Users\fabio\source\repos\BlocoFinaly\obj\Debug\net8.0\ref\BlocoFinaly.dll

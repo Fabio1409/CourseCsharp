@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\MetodosAbstratos\bin\Debug\net8.0\MetodosAbstratos.exe
+C:\Users\fabio\source\repos\MetodosAbstratos\bin\Debug\net8.0\MetodosAbstratos.deps.json
+C:\Users\fabio\source\repos\MetodosAbstratos\bin\Debug\net8.0\MetodosAbstratos.runtimeconfig.json
+C:\Users\fabio\source\repos\MetodosAbstratos\bin\Debug\net8.0\MetodosAbstratos.dll
+C:\Users\fabio\source\repos\MetodosAbstratos\bin\Debug\net8.0\MetodosAbstratos.pdb
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.sourcelink.json
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.dll
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\refint\MetodosAbstratos.dll
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.pdb
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\MetodosAbstratos.genruntimeconfig.cache
+C:\Users\fabio\source\repos\MetodosAbstratos\obj\Debug\net8.0\ref\MetodosAbstratos.dll
