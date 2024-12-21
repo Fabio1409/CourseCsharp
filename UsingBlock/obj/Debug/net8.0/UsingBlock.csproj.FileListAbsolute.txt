@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\UsingBlock\bin\Debug\net8.0\UsingBlock.exe
+C:\Users\fabio\source\repos\UsingBlock\bin\Debug\net8.0\UsingBlock.deps.json
+C:\Users\fabio\source\repos\UsingBlock\bin\Debug\net8.0\UsingBlock.runtimeconfig.json
+C:\Users\fabio\source\repos\UsingBlock\bin\Debug\net8.0\UsingBlock.dll
+C:\Users\fabio\source\repos\UsingBlock\bin\Debug\net8.0\UsingBlock.pdb
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.AssemblyInfo.cs
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.sourcelink.json
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.dll
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\refint\UsingBlock.dll
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.pdb
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\UsingBlock.genruntimeconfig.cache
+C:\Users\fabio\source\repos\UsingBlock\obj\Debug\net8.0\ref\UsingBlock.dll

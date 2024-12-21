@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\StreamWrite\bin\Debug\net8.0\StreamWrite.exe
+C:\Users\fabio\source\repos\StreamWrite\bin\Debug\net8.0\StreamWrite.deps.json
+C:\Users\fabio\source\repos\StreamWrite\bin\Debug\net8.0\StreamWrite.runtimeconfig.json
+C:\Users\fabio\source\repos\StreamWrite\bin\Debug\net8.0\StreamWrite.dll
+C:\Users\fabio\source\repos\StreamWrite\bin\Debug\net8.0\StreamWrite.pdb
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.AssemblyInfo.cs
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.sourcelink.json
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.dll
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\refint\StreamWrite.dll
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.pdb
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\StreamWrite.genruntimeconfig.cache
+C:\Users\fabio\source\repos\StreamWrite\obj\Debug\net8.0\ref\StreamWrite.dll
