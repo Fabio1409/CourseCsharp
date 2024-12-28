@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\bin\Debug\net8.0\NumerosAritimetricos.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\bin\Debug\net8.0\NumerosAritimetricos.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\bin\Debug\net8.0\NumerosAritimetricos.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\bin\Debug\net8.0\NumerosAritimetricos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\bin\Debug\net8.0\NumerosAritimetricos.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\refint\NumerosAritimetricos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\NumerosAritimetricos.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\NumerosAritimetricos\obj\Debug\net8.0\ref\NumerosAritimetricos.dll

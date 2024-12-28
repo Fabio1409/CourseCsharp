@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\bin\Debug\net8.0\Entrada.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\bin\Debug\net8.0\Entrada.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\bin\Debug\net8.0\Entrada.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\bin\Debug\net8.0\Entrada.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\bin\Debug\net8.0\Entrada.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\refint\Entrada.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\Entrada.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\Entrada\obj\Debug\net8.0\ref\Entrada.dll

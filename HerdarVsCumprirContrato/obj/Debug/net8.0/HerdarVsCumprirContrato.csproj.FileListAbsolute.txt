@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\bin\Debug\net8.0\HerdarVsCumprirContrato.exe
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\bin\Debug\net8.0\HerdarVsCumprirContrato.deps.json
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\bin\Debug\net8.0\HerdarVsCumprirContrato.runtimeconfig.json
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\bin\Debug\net8.0\HerdarVsCumprirContrato.dll
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\bin\Debug\net8.0\HerdarVsCumprirContrato.pdb
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.AssemblyInfo.cs
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.dll
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\refint\HerdarVsCumprirContrato.dll
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.pdb
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\HerdarVsCumprirContrato.genruntimeconfig.cache
+C:\Users\fabio\source\repos\HerdarVsCumprirContrato\obj\Debug\net8.0\ref\HerdarVsCumprirContrato.dll

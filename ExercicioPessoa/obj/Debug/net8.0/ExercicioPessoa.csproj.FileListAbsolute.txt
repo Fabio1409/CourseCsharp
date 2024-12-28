@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\bin\Debug\net8.0\ExercicioPessoa.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\bin\Debug\net8.0\ExercicioPessoa.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\bin\Debug\net8.0\ExercicioPessoa.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\bin\Debug\net8.0\ExercicioPessoa.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\bin\Debug\net8.0\ExercicioPessoa.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\refint\ExercicioPessoa.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ExercicioPessoa.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ExercicioPessoa\obj\Debug\net8.0\ref\ExercicioPessoa.dll

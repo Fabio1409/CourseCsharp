@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioComInterface.exe
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioComInterface.deps.json
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioComInterface.runtimeconfig.json
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioComInterface.dll
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioComInterface.pdb
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.dll
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\refint\ExercicioComInterface.dll
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.pdb
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioComInterface.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ref\ExercicioComInterface.dll

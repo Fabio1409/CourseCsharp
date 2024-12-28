@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.exe
+C:\Users\fabio\source\repos\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.deps.json
+C:\Users\fabio\source\repos\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.runtimeconfig.json
+C:\Users\fabio\source\repos\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.dll
+C:\Users\fabio\source\repos\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfo.cs
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.dll
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\refint\DirectoryInfo.dll
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.genruntimeconfig.cache
+C:\Users\fabio\source\repos\DirectoryInfo\obj\Debug\net8.0\ref\DirectoryInfo.dll

@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\bin\Debug\net8.0\ProjetoFor.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\bin\Debug\net8.0\ProjetoFor.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\bin\Debug\net8.0\ProjetoFor.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\bin\Debug\net8.0\ProjetoFor.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\bin\Debug\net8.0\ProjetoFor.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\refint\ProjetoFor.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ProjetoFor.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoFor\obj\Debug\net8.0\ref\ProjetoFor.dll

@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\bin\Debug\net8.0\EstrturaCondicional.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\bin\Debug\net8.0\EstrturaCondicional.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\bin\Debug\net8.0\EstrturaCondicional.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\bin\Debug\net8.0\EstrturaCondicional.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\bin\Debug\net8.0\EstrturaCondicional.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\refint\EstrturaCondicional.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\EstrturaCondicional.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\EstrturaCondicional\obj\Debug\net8.0\ref\EstrturaCondicional.dll

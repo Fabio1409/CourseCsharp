@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioSemInterface.exe
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioSemInterface.deps.json
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioSemInterface.runtimeconfig.json
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioSemInterface.dll
+C:\Users\fabio\source\repos\Interfaces\bin\Debug\net8.0\ExercicioSemInterface.pdb
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.dll
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\refint\ExercicioSemInterface.dll
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.pdb
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ExercicioSemInterface.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Interfaces\obj\Debug\net8.0\ref\ExercicioSemInterface.dll

@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\bin\Debug\net8.0\ArmazenarVariaveis.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\bin\Debug\net8.0\ArmazenarVariaveis.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\bin\Debug\net8.0\ArmazenarVariaveis.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\bin\Debug\net8.0\ArmazenarVariaveis.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\bin\Debug\net8.0\ArmazenarVariaveis.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\refint\ArmazenarVariaveis.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ArmazenarVariaveis.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ArmazenarVariaveis\obj\Debug\net8.0\ref\ArmazenarVariaveis.dll

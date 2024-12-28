@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

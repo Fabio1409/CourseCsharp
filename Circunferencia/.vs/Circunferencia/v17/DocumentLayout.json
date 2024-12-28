@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\OneDrive\\Desktop\\CursosUdemy\\PrimeiroC#\\Circunferencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81300CA1-8AA1-4A61-B3E4-1C3AF159D836}|Circunferencia.csproj|c:\\users\\fabio\\onedrive\\desktop\\cursosudemy\\primeiroc#\\circunferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81300CA1-8AA1-4A61-B3E4-1C3AF159D836}|Circunferencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81300CA1-8AA1-4A61-B3E4-1C3AF159D836}|Circunferencia.csproj|c:\\users\\fabio\\onedrive\\desktop\\cursosudemy\\primeiroc#\\circunferencia\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81300CA1-8AA1-4A61-B3E4-1C3AF159D836}|Circunferencia.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Desktop\\CursosUdemy\\PrimeiroC#\\Circunferencia\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Desktop\\CursosUdemy\\PrimeiroC#\\Circunferencia\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T00:01:25.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\OneDrive\\Desktop\\CursosUdemy\\PrimeiroC#\\Circunferencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\OneDrive\\Desktop\\CursosUdemy\\PrimeiroC#\\Circunferencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:12:07.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

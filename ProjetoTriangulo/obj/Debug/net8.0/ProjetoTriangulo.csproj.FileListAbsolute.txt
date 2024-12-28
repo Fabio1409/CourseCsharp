@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\bin\Debug\net8.0\ProjetoTriangulo.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\bin\Debug\net8.0\ProjetoTriangulo.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\bin\Debug\net8.0\ProjetoTriangulo.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\bin\Debug\net8.0\ProjetoTriangulo.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\bin\Debug\net8.0\ProjetoTriangulo.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\refint\ProjetoTriangulo.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ProjetoTriangulo.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoTriangulo\obj\Debug\net8.0\ref\ProjetoTriangulo.dll

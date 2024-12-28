@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Path\bin\Debug\net8.0\Path.exe
+C:\Users\fabio\source\repos\Path\bin\Debug\net8.0\Path.deps.json
+C:\Users\fabio\source\repos\Path\bin\Debug\net8.0\Path.runtimeconfig.json
+C:\Users\fabio\source\repos\Path\bin\Debug\net8.0\Path.dll
+C:\Users\fabio\source\repos\Path\bin\Debug\net8.0\Path.pdb
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.dll
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\refint\Path.dll
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.pdb
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\Path.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Path\obj\Debug\net8.0\ref\Path.dll

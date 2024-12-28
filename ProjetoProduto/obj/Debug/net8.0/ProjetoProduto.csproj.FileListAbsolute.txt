@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\bin\Debug\net8.0\ProjetoProduto.exe
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\bin\Debug\net8.0\ProjetoProduto.deps.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\bin\Debug\net8.0\ProjetoProduto.runtimeconfig.json
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\bin\Debug\net8.0\ProjetoProduto.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\bin\Debug\net8.0\ProjetoProduto.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\refint\ProjetoProduto.dll
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.pdb
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ProjetoProduto.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Desktop\PrimeiroC#\ProjetoProduto\obj\Debug\net8.0\ref\ProjetoProduto.dll

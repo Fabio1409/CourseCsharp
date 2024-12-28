@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.exe
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.deps.json
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\refint\ExercicioFixacaoInterface.dll
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioFixacaoInterface\obj\Debug\net8.0\ref\ExercicioFixacaoInterface.dll
