@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\Hashset\bin\Debug\net8.0\Hashset.exe
+C:\Users\fabio\C#\repos\Hashset\bin\Debug\net8.0\Hashset.deps.json
+C:\Users\fabio\C#\repos\Hashset\bin\Debug\net8.0\Hashset.runtimeconfig.json
+C:\Users\fabio\C#\repos\Hashset\bin\Debug\net8.0\Hashset.dll
+C:\Users\fabio\C#\repos\Hashset\bin\Debug\net8.0\Hashset.pdb
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.sourcelink.json
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.dll
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\refint\Hashset.dll
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.pdb
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\Hashset.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\Hashset\obj\Debug\net8.0\ref\Hashset.dll

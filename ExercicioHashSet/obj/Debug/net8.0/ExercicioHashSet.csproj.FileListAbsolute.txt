@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\ExercicioHashSet\bin\Debug\net8.0\ExercicioHashSet.exe
+C:\Users\fabio\C#\repos\ExercicioHashSet\bin\Debug\net8.0\ExercicioHashSet.deps.json
+C:\Users\fabio\C#\repos\ExercicioHashSet\bin\Debug\net8.0\ExercicioHashSet.runtimeconfig.json
+C:\Users\fabio\C#\repos\ExercicioHashSet\bin\Debug\net8.0\ExercicioHashSet.dll
+C:\Users\fabio\C#\repos\ExercicioHashSet\bin\Debug\net8.0\ExercicioHashSet.pdb
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.sourcelink.json
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.dll
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\refint\ExercicioHashSet.dll
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.pdb
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ExercicioHashSet.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\ExercicioHashSet\obj\Debug\net8.0\ref\ExercicioHashSet.dll
