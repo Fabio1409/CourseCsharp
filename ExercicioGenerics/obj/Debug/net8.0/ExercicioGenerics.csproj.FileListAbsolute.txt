@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\ExercicioGenerics\bin\Debug\net8.0\ExercicioGenerics.exe
+C:\Users\fabio\source\repos\ExercicioGenerics\bin\Debug\net8.0\ExercicioGenerics.deps.json
+C:\Users\fabio\source\repos\ExercicioGenerics\bin\Debug\net8.0\ExercicioGenerics.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioGenerics\bin\Debug\net8.0\ExercicioGenerics.dll
+C:\Users\fabio\source\repos\ExercicioGenerics\bin\Debug\net8.0\ExercicioGenerics.pdb
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.dll
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\refint\ExercicioGenerics.dll
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.pdb
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ExercicioGenerics.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioGenerics\obj\Debug\net8.0\ref\ExercicioGenerics.dll

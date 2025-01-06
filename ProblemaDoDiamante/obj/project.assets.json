@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\C#\\repos\\ProblemaDoDiamante\\HerancaMultipla.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\ProblemaDoDiamante\\HerancaMultipla.csproj",
       "projectName": "HerancaMultipla",
-      "projectPath": "C:\\Users\\fabio\\C#\\repos\\ProblemaDoDiamante\\HerancaMultipla.csproj",
+      "projectPath": "C:\\Users\\fabio\\source\\repos\\ProblemaDoDiamante\\HerancaMultipla.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\C#\\repos\\ProblemaDoDiamante\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\source\\repos\\ProblemaDoDiamante\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

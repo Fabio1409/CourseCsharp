@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|c:\\users\\fabio\\source\\repos\\exerciciogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|c:\\users\\fabio\\source\\repos\\exerciciogenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|c:\\users\\fabio\\source\\repos\\exerciciogenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDEAB6E-7EC1-40E5-BE9E-5AE921E2E819}|ExercicioGenerics.csproj|solutionrelative:services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:52:57.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Services\\CalculationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:34:47.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\ExercicioGenerics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:33:19.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
