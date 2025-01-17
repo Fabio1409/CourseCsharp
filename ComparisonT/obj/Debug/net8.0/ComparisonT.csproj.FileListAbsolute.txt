@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\ComparisonT\bin\Debug\net8.0\ComparisonT.exe
+C:\Users\fabio\C#\repos\ComparisonT\bin\Debug\net8.0\ComparisonT.deps.json
+C:\Users\fabio\C#\repos\ComparisonT\bin\Debug\net8.0\ComparisonT.runtimeconfig.json
+C:\Users\fabio\C#\repos\ComparisonT\bin\Debug\net8.0\ComparisonT.dll
+C:\Users\fabio\C#\repos\ComparisonT\bin\Debug\net8.0\ComparisonT.pdb
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.sourcelink.json
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.dll
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\refint\ComparisonT.dll
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.pdb
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ComparisonT.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\ComparisonT\obj\Debug\net8.0\ref\ComparisonT.dll

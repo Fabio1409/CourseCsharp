@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\IntroduçãoLinq\bin\Debug\net8.0\IntroduçãoLinq.exe
+C:\Users\fabio\C#\repos\IntroduçãoLinq\bin\Debug\net8.0\IntroduçãoLinq.deps.json
+C:\Users\fabio\C#\repos\IntroduçãoLinq\bin\Debug\net8.0\IntroduçãoLinq.runtimeconfig.json
+C:\Users\fabio\C#\repos\IntroduçãoLinq\bin\Debug\net8.0\IntroduçãoLinq.dll
+C:\Users\fabio\C#\repos\IntroduçãoLinq\bin\Debug\net8.0\IntroduçãoLinq.pdb
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.sourcelink.json
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.dll
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\refint\IntroduçãoLinq.dll
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.pdb
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\IntroduçãoLinq.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\IntroduçãoLinq\obj\Debug\net8.0\ref\IntroduçãoLinq.dll

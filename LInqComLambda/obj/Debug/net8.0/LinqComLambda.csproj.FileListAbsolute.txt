@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\LInqComLambda\bin\Debug\net8.0\LinqComLambda.exe
+C:\Users\fabio\C#\repos\LInqComLambda\bin\Debug\net8.0\LinqComLambda.deps.json
+C:\Users\fabio\C#\repos\LInqComLambda\bin\Debug\net8.0\LinqComLambda.runtimeconfig.json
+C:\Users\fabio\C#\repos\LInqComLambda\bin\Debug\net8.0\LinqComLambda.dll
+C:\Users\fabio\C#\repos\LInqComLambda\bin\Debug\net8.0\LinqComLambda.pdb
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.sourcelink.json
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.dll
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\refint\LinqComLambda.dll
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.pdb
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\LinqComLambda.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\LInqComLambda\obj\Debug\net8.0\ref\LinqComLambda.dll

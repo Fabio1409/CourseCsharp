@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TransparenciaReferencial/1.0.0": {
+        "runtime": {
+          "TransparenciaReferencial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransparenciaReferencial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\ConsoleApp2\bin\Debug\net8.0\TransparenciaReferencial.exe
+C:\Users\fabio\C#\repos\ConsoleApp2\bin\Debug\net8.0\TransparenciaReferencial.deps.json
+C:\Users\fabio\C#\repos\ConsoleApp2\bin\Debug\net8.0\TransparenciaReferencial.runtimeconfig.json
+C:\Users\fabio\C#\repos\ConsoleApp2\bin\Debug\net8.0\TransparenciaReferencial.dll
+C:\Users\fabio\C#\repos\ConsoleApp2\bin\Debug\net8.0\TransparenciaReferencial.pdb
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.sourcelink.json
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.dll
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\refint\TransparenciaReferencial.dll
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.pdb
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\TransparenciaReferencial.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\ConsoleApp2\obj\Debug\net8.0\ref\TransparenciaReferencial.dll

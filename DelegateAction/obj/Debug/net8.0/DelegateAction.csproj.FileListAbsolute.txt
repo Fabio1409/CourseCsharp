@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\DelegateAction\bin\Debug\net8.0\DelegateAction.exe
+C:\Users\fabio\C#\repos\DelegateAction\bin\Debug\net8.0\DelegateAction.deps.json
+C:\Users\fabio\C#\repos\DelegateAction\bin\Debug\net8.0\DelegateAction.runtimeconfig.json
+C:\Users\fabio\C#\repos\DelegateAction\bin\Debug\net8.0\DelegateAction.dll
+C:\Users\fabio\C#\repos\DelegateAction\bin\Debug\net8.0\DelegateAction.pdb
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.sourcelink.json
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.dll
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\refint\DelegateAction.dll
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.pdb
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\DelegateAction.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\DelegateAction\obj\Debug\net8.0\ref\DelegateAction.dll
