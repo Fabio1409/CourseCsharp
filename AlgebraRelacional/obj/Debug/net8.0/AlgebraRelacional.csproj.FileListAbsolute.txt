@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\AlgebraRelacional\bin\Debug\net8.0\AlgebraRelacional.exe
+C:\Users\fabio\C#\repos\AlgebraRelacional\bin\Debug\net8.0\AlgebraRelacional.deps.json
+C:\Users\fabio\C#\repos\AlgebraRelacional\bin\Debug\net8.0\AlgebraRelacional.runtimeconfig.json
+C:\Users\fabio\C#\repos\AlgebraRelacional\bin\Debug\net8.0\AlgebraRelacional.dll
+C:\Users\fabio\C#\repos\AlgebraRelacional\bin\Debug\net8.0\AlgebraRelacional.pdb
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.sourcelink.json
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.dll
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\refint\AlgebraRelacional.dll
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.pdb
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\AlgebraRelacional.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\AlgebraRelacional\obj\Debug\net8.0\ref\AlgebraRelacional.dll

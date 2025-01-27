@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgebraRelacional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1b7ce73ccf185d8abd508bab7c3bbdc5a04468")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a1fa4609ee5ca8300a9d7bf7f20e88029574a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgebraRelacional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgebraRelacional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

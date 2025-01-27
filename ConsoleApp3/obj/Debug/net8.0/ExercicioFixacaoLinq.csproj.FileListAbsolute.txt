@@ -1,0 +1,15 @@
+C:\Users\fabio\C#\repos\ConsoleApp3\bin\Debug\net8.0\ExercicioFixacaoLinq.exe
+C:\Users\fabio\C#\repos\ConsoleApp3\bin\Debug\net8.0\ExercicioFixacaoLinq.deps.json
+C:\Users\fabio\C#\repos\ConsoleApp3\bin\Debug\net8.0\ExercicioFixacaoLinq.runtimeconfig.json
+C:\Users\fabio\C#\repos\ConsoleApp3\bin\Debug\net8.0\ExercicioFixacaoLinq.dll
+C:\Users\fabio\C#\repos\ConsoleApp3\bin\Debug\net8.0\ExercicioFixacaoLinq.pdb
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.AssemblyInfoInputs.cache
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.AssemblyInfo.cs
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.csproj.CoreCompileInputs.cache
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.sourcelink.json
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.dll
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\refint\ExercicioFixacaoLinq.dll
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.pdb
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ExercicioFixacaoLinq.genruntimeconfig.cache
+C:\Users\fabio\C#\repos\ConsoleApp3\obj\Debug\net8.0\ref\ExercicioFixacaoLinq.dll
